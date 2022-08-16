@@ -3,9 +3,9 @@ ps：这是以前老师留的JSP作业。
 
 ## 运行环境
 
-**1.Eclipse IDE for Enterprise Java and Web Developers 2021以上版本**
+**1.Eclipse IDE for Enterprise Java and Web Developers 2021**
 
-**2.Tomcat 9.0以上版本**
+**2.Tomcat 9.0**
 
 **3.MySQL 8.0以上版本**
 
