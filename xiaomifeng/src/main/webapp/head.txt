@@ -1,0 +1,21 @@
+﻿<style>
+	ul{margin:30px auto;width:1500px;height:50px;padding:0px;}	
+	li{list-style-type:none;float:left;}	
+	a{display:block;width:200px;height:50px;text-decoration:none;font-size:30px;font-family:华文楷体;line-height:50px;
+	background-color:#BBECDA;margin:0px 0px;color:black;text-align:center;}
+	a:hover{background-color:yellow;}
+	#b{font-family:华文楷体;font-size:58;color:blue;}
+</style>
+
+<div align="center">
+<p id="b">极简手机销售</p>
+<ul>
+	<li><a href="index.jsp">首页</a></li>
+	<li><a href="lookMobile.jsp">&nbsp;查看手机&nbsp;</a></li>
+	<li><a href="searchMobile.jsp">&nbsp;查询手机&nbsp;</a></li>
+	<li><a href="lookShoppingCar.jsp">&nbsp;查看购物车&nbsp;</a></li>
+	<li><a href="lookOrderForm.jsp">&nbsp;查看订单&nbsp;</a></li>
+	<li><a href="login.jsp">登录</a></li>
+	<li><a href="exitServlet">退出</a></li>
+</ul>
+</div>

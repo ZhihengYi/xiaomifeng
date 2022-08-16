@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Context>
+  <Resource 
+    name = "mobileConn"
+    type ="javax.sql.DataSource"
+    driverClassName = "com.mysql.cj.jdbc.Driver"
+    url = "jdbc:mysql://127.0.0.1:3306/mobileDatabase?useSSL=false&amp;serverTimezone=CST&amp;characterEncoding=utf-8"
+    username ="root"
+    password ="87651234"
+    maxTotal ="15"
+    maxIdle ="15"
+    minIdle ="1"
+    maxWaitMillis ="1000" 
+   /> 
+</Context>
